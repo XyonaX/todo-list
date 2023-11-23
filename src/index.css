@@ -1,0 +1,10 @@
+:root {
+    background-image: image-set('./assets/bg.jpg');
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
